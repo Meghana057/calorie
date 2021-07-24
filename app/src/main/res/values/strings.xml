@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BmiCalculator</string>
+    <string name="bmi_calculator">BMI CALCULATOR</string>
+    <string name="weight_kg">Weight(kg)</string>
+    <string name="height_cm">Height(cm)</string>
+    <string name="calculate_your_bmi">CALCULATE YOUR BMI</string>
+    <string name="_00">00</string>
+    <string name="your_bmi">Your BMI</string>
+    <string name="calculate_bmi_again">Calculate BMI again</string>
+    <string name="age">Age(years)</string>
+    <string name="daily_calorie_intake">Daily Calorie Intake</string>
+</resources>
